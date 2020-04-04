@@ -1,0 +1,230 @@
+* {box-sizing: border-box;}
+
+/* Style the navbar */
+.topnav {
+  overflow: hidden;
+}
+
+/* Navbar links */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  margin-top: 10px;
+  padding: 4px 10px;
+}
+
+/* Style the input container */
+.topnav .search-container {
+  float: left;
+}
+
+/* Style the input field inside the navbar */
+.topnav input[type=text] {
+  padding: 6px;
+  width: 730px;
+  margin-top: 40px;
+  margin-left: 70px;
+  font-size: 17px;
+  border-radius: 5px;
+}
+
+.topnav #logolinks{
+
+    margin-top: 25px;
+
+    margin-left: 50px;
+
+}
+
+/* Style the button inside the input container */
+.topnav .search-container button {
+  float: right;
+  padding: 6px;
+  margin-top: 40px;
+  margin-right: 20px;
+  background: #ddd;
+  font-size: 17px;
+  cursor: pointer;
+}
+
+.topnav .search-container button:hover {
+  background: #ccc;
+}
+
+
+/* container */
+
+#container{
+
+
+    display: flex;
+  
+  
+}
+
+
+
+/* sidebar */
+
+
+.sidebar a {
+
+  background-color: #eee;
+  color: black;
+  display: block;
+  margin-left: 15px;
+  padding: 12px;
+  text-decoration: none;
+  width: 150px;
+
+  }
+
+  .sidebar h4{
+
+    margin-left: 20px;
+
+  }
+  
+  .sidebar a:hover{
+    background-color: #ccc;
+  }
+
+
+  /* Active/current link */
+  .sidebar a.active {
+    background-color: #17a1a3;
+    color: white;
+  }
+
+ 
+
+  /* slideshow */
+
+
+  /* Slideshow container */
+.slideshow-container {
+ 
+    float: center;
+
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+
+/* Fading animation */
+.fade {
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 1.5s;
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+
+
+
+/* info */
+
+#pageinfo{
+
+  text-align: center;
+
+  margin-right: 130px;
+  
+}
+
+#pageinfo table{
+
+
+    float: left;
+
+    margin-left: 100px;
+
+}
+
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown img{
+
+    margin-top: 15px;
+    margin-left: 10px;
+
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  text-decoration: none;
+  font-size: 12px;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;}
+
+
+
+
+.card {
+  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  max-height: 400px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  font-size: 0.8vw;
+}
+
+.price {
+  color: grey;
+  font-size: 20px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 6px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 15px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+

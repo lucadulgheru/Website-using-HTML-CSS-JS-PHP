@@ -1,0 +1,12 @@
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('61', 'psu', 'Seasonic', 'FOCUS 650W', '84.99', 'SSR-650FM 650W 80 + Gold Power Supply, Semi-Modular');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('62', 'psu', 'CoolerMaster', 'MWE 750W', '99.99', 'Gold 750 Watt Fully Modular, Compact, Silent Fan 80 PLUS Gold');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('63', 'psu', 'Seasonic', 'PRIME 850W', '144.99', '850W 80+ Gold Power Supply, Full Modular, 135mm FDB Fan w/Hybrid Fan Control');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('64', 'psu', 'Corsair', 'RMx 750W', '119.99', 'CP-9020179-NA 750W ATX12V / EPS12V 80 PLUS GOLD');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('65', 'psu', 'Corsair', 'RM 650W', '104.99', 'CP-9020194-NA 650W ATX12V SLI Ready 80 PLUS GOLD');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('66', 'psu', 'EVGA', 'SuperNOVA 650W', '119.99', '650 G3, 220-G3-0650-Y1, 80+ GOLD, 650W Fully Modular');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('67', 'psu', 'EVGA', 'GD 600W', '69.99', '600W ATX12V / EPS12V 80 PLUS GOLD');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('68', 'psu', 'Rosewill', 'PHOTON 850W', '79.99', '850W Full Modular Gaming Power Supply, 80 PLUS Gold');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('69', 'psu', 'Rosewill', 'LEPTON 700W', '64.99', '700 Modular 700W Power Supply 80 PLUS GOLD');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('70', 'psu', 'Thermaltake', 'PS 600W', '59.99', '600W ATX12V 80 PLUS GOLD Certified Non-Modular');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('71', 'psu', 'Apexgaming', 'STG 650W', '59.99', '650W ATX 12V V2.4 / EPS 12V V2.92 80 PLUS GOLD Certified Non-Modular');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('72', 'psu', 'Thermaltake', 'Toughpower 850W', '129.99', 'Grand RGB 850W Smart Zero Fan SLI/CrossFire Ready');

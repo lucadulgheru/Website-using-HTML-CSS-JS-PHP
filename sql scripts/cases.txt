@@ -1,0 +1,12 @@
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('73', 'case', 'Phanteks', 'Eclipse P600S', '149.99', 'P600S PH-EC600PSTG_AG01 Antracite Gray');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('74', 'case', 'NZXT', 'H510i', '89.99', 'Compact ATX Mid -Tower PC Gaming Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('75', 'case', 'Corsair', 'Carbide SPEC-OMEGA', '164.99', 'Tempered Glass Mid-Tower ATX Gaming Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('76', 'case', 'DeepCool', 'Storm', '99.99', 'Black Full-Tower Case Concise Design Tempered Glass');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('77', 'case', 'NZXT', 'H700i', '174.99', 'ATX Mid-Tower PC Gaming Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('78', 'case', 'Thermaltake', 'Level 20', '92.99', 'MT ARGB CA-1M7-00M1WN-00 Black Computer Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('79', 'case', 'DeepCool', 'MATREXX', '59.99', 'Mid-Tower Case Modular Design Full-size Tempered Glass');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('80', 'case', 'Corsair', 'Carbide 678C', '149.99', 'Black Low Noise Tempered Glass ATX Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('81', 'case', 'Phanteks', 'Enthoo Luxe', '174.99', 'Aluminum Faceplates Tempered Glass Panel');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('82', 'case', 'Corsair', 'Obsidian 500D', '159.99', 'Mid Tower Case, Premium Tempered Glass and Aluminum');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('83', 'case', 'DIY', 'Model-X', '55.99', 'White Steel / Tempered Glass ATX Mid Tower Computer Case');
+INSERT INTO `sgimag`.`products` (`product_id`, `category`, `brand`, `model`, `price`, `description`) VALUES ('84', 'case', 'DIY', 'D3', '48.99', ' Black USB3.0 Steel/ Tempered Glass ATX Mid Tower Gaming Computer Case');
